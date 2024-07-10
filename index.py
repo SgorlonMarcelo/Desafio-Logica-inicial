@@ -20,3 +20,4 @@ elif xp < 10000:
 else:
     print("O Herói de nome", nh," está no nível Radiante")        
 
+
